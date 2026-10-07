@@ -1,0 +1,6 @@
+{
+  "name": "MediSafe - Drug Interaction Checker",
+  "description": "AI-powered drug-drug and drug-food interaction checker for polypharmacy patients and doctors with prescription OCR scanning, multi-language audio warnings, and clinical pharmacological dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
